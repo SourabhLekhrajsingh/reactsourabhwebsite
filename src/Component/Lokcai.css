@@ -1,0 +1,83 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.Maincontainer{
+    width: 100%;
+    float: left;
+}
+.left{
+    width: 50%;
+    float: left;
+}
+.logo{
+    margin: 40px 40px;
+}
+.right{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+    height: 70%;
+}
+.text{
+    margin: 0px 40px;
+    color: darkgray;
+}
+.change-content::after{
+    content: "";
+    animation: change-text 10s infinite  linear;
+    color: darkgray;
+}
+@keyframes change-text{
+    0%{content: "stylish barber?";}
+    20%{content: "Best salon?";}
+    40%{content: "Best servce?";}
+    60%{content: "Hygenic salon?";}
+}
+.search{
+    padding: 10px;
+    border-radius: 10px;
+}
+.searching{
+    margin-top: 20px;
+}
+.locationimage{
+    height: 5%;
+    width: 5%;
+    margin: -9px -35px;
+    
+}
+.custom-style{
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    box-shadow: 5px 10px  #888888;
+    color: black;
+    
+}
+.location-box-cover{
+    margin-top: 40px;
+
+}
+.book{
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    box-shadow: 7px 7px;
+}
+.book{
+    background-color: limegreen;
+}
+.booking{
+    margin-left: 50px;
+}
+.locationimg{
+    height: 5%;
+    width: 5%;
+    margin: -45px 20px 20px 177px;
+}
+.custom-style-lists{
+    color: blue;
+    border: 3px solid blue;
+    list-style: none;;
+}
