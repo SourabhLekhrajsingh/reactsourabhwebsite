@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reactsourabhwebsite/static/js/main.e2948ab7.chunk.js",
+    "main.js.map": "/reactsourabhwebsite/static/js/main.e2948ab7.chunk.js.map",
+    "runtime-main.js": "/reactsourabhwebsite/static/js/runtime-main.35036178.js",
+    "runtime-main.js.map": "/reactsourabhwebsite/static/js/runtime-main.35036178.js.map",
+    "static/js/2.ef43c024.chunk.js": "/reactsourabhwebsite/static/js/2.ef43c024.chunk.js",
+    "static/js/2.ef43c024.chunk.js.map": "/reactsourabhwebsite/static/js/2.ef43c024.chunk.js.map",
+    "index.html": "/reactsourabhwebsite/index.html",
+    "static/js/2.ef43c024.chunk.js.LICENSE.txt": "/reactsourabhwebsite/static/js/2.ef43c024.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35036178.js",
+    "static/js/2.ef43c024.chunk.js",
+    "static/js/main.e2948ab7.chunk.js"
+  ]
+}
